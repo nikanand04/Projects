@@ -1,4 +1,4 @@
-[![N|Solid](http://p9.zdassets.com/hc/settings_assets/680652/200062887/j1ixQzAxY6SfuZ2YTKbDOQ-lending_club_logo_new.png)](https://nodesource.com/products/nsolid)
+
 # Overview
 The project focuses on economic analysis of two countries India and USA. We have predicted certain indicators that are required for determining economic growth of a country. Based on the values of economic indicators, we have predicted whether we will face any recession in upcoming 10 years for both countries. Also, we have compared two economies.
 
